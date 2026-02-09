@@ -1,4 +1,3 @@
-httpx
+﻿httpx
 Django
 asgiref
-```
